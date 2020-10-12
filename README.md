@@ -1,6 +1,7 @@
 # python-beginner-projects
 
-https://img.shields.io/badge/happiness-passing-brightgreen
+![Happiness](https://img.shields.io/badge/happiness-passing-brightgreen)
+![Unicorn](https://img.shields.io/badge/unicorn-passing-blue)
 
 # This is a repository which contains beginner/intermediate projects I've done/I'm working on with Python🐍
 
